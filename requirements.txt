@@ -1,0 +1,10 @@
+ipykernel
+python-dotenv
+neo4j
+llama-index
+llama-index-core
+llama-index-embeddings-openai
+llama-index-postprocessor-flag-embedding-reranker
+git+https://github.com/FlagOpen/FlagEmbedding.git
+llama-index-graph-stores-neo4j
+llama-parse
