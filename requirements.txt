@@ -8,3 +8,7 @@ llama-index-postprocessor-flag-embedding-reranker
 git+https://github.com/FlagOpen/FlagEmbedding.git
 llama-index-graph-stores-neo4j
 llama-parse
+py2neo
+networkx
+matplotlib
+graphdatascience
